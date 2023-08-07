@@ -18,7 +18,7 @@ import argparse
 import traceback
 from MedSAM.auto_pre_CT import preprocess_ct
 import random
-
+# test
 # visualization functions
 # source: https://github.com/facebookresearch/segment-anything/blob/main/notebooks/predictor_example.ipynb
 # change color to avoid red and green
